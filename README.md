@@ -1,4 +1,4 @@
-# About
+# Learnings from the course
 
 1. Understanding how to apply mathematical models such as regression, factor/cluster analysis, choice modeling, Bass model and Bayes theory, among others, to support marketing decisions.
 
